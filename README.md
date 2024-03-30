@@ -1,25 +1,13 @@
 
 # 🤍 welcome to my profile! 🤍
-_coded by M1relly_
+### _coded by M1relly_
 
 
-<!-- Alinhamento lado a lado -->
-<div style="display: flex; align-items: center;">
-  <!-- Texto -->
-  <div>
-    <ul>
-      <li>🖊 I’m currently studying Analysis and Systems Development</li>
-      <li>💻 I’m currently working on a project to [Plusoft](https://plusoft.com/en/)</li>
-      <li>⚡ Curiosity: I love reading</li>
-    </ul>
-  </div>
-  
-  <!-- Imagem -->
-  <div align="right">
-    <img src="me.png" alt="Profile Image" width="300" height="300">
-  </div>
-</div>
+- 🖊 I’m currently studying Analysis and Systems Development</li>
+- 💻 I’m currently working on a project to [Plusoft](https://plusoft.com/en/)</li>
+- ⚡ Curiosity: I love reading</li>
 
+<br>
 
 ### about my dev life:
  <div>
