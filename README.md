@@ -21,7 +21,7 @@
 
 ### how to reach me:
 <div> 
-   <a href= "https://www.kaggle.com/mirellyribeiro"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+   <a href= "https://www.kaggle.com/m1relly"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mirelly-ribeiro-azevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mirelly.ribeiro.azevedoo@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
