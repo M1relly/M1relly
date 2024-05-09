@@ -1,9 +1,8 @@
 
 # 🤍 welcome to my profile! 🤍
-### _coded by M1relly_
 
 
-- 🖊 I’m currently studying Analysis and Systems Development</li>
+- 🖊 I’m studying Analysis and Systems Development</li>
 - 💻 I’m currently working on a project to [Plusoft](https://plusoft.com/en/)</li>
 - ⚡ Curiosity: I love reading</li>
 
